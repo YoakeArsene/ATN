@@ -1,0 +1,14 @@
+{
+  "name": "vendor_name/ATN",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "ASUS TUF",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+  }
+}
